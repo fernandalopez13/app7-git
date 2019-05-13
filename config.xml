@@ -35,6 +35,6 @@ María Fernanda López Pineda
 
 <!--Colocar Icono app-->
 
-<icon src="imagenes/mdpi.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
